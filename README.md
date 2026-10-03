@@ -16,9 +16,18 @@ The blank area is not repaired, replaced, or automatically filled. Instead, the 
 
 ## Example gallery
 
-| Cemetery | Concrete | Clock |
-|---|---|---|
-| ![Cemetery example](assets/examples/cemetery.jpg) | ![Concrete example](assets/examples/concrete.jpg) | ![Clock example](assets/examples/clock.jpg) |
+<table>
+  <tr>
+    <th>Cemetery</th>
+    <th>Concrete</th>
+    <th>Clock</th>
+  </tr>
+  <tr>
+    <td valign="top"><img src="assets/examples/cemetery.png" width="280"></td>
+    <td valign="top"><img src="assets/examples/concrete.png" width="280"></td>
+    <td valign="top"><img src="assets/examples/clock.png" width="280"></td>
+  </tr>
+</table>
 
 Examples demonstrate the workflow only; they must not be treated as reusable visual templates.
 
