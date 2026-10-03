@@ -62,7 +62,7 @@ The skill may add one very short poetic phrase when the photograph supports it. 
 3. Protect the photograph and boundary.
 4. Select a small set of relationships that distinguish the photograph.
 5. Translate those relationships into a minimal, source-specific abstract grammar.
-6. Optionally derive one short poetic fragment from the photograph's visible atmosphere or structure.
+6. Derive one short poetic fragment from the photograph's visible atmosphere or structure.
 7. Composite generated elements only inside genuine blank film.
 8. Validate source integrity, negative space, and creative specificity.
 
