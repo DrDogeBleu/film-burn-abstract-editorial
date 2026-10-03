@@ -58,9 +58,9 @@ As a final literalness check, prefer translating relationships over preserving r
 
 Different photographs should produce substantially different abstract systems. Series consistency comes from the derivation process, preservation rules, and restraint—not repeated motifs.
 
-## Derive optional poetic text
+## Derive poetic text
 
-Use no more than one restrained editorial phrase, normally 1–5 words. Prefer a fragment to a complete sentence. Text is encouraged when a strong phrase emerges, but omit it when none can be derived convincingly.
+Derive one convincing, source-grounded editorial phrase, normally 1–5 words. Prefer a fragment to a complete sentence. If the first candidates are generic or unsupported, return to the photograph's visible relationships and derive a more specific phrase.
 
 The phrase may respond to the photograph's atmosphere, relationships, composition, light, space, rhythm, tension, or suggested feeling. It need not describe the scene or function as a title, and should not merely name visible objects.
 
@@ -69,7 +69,7 @@ Before accepting text:
 1. Identify the visible evidence or explicit user statement supporting the phrase's feeling or concepts.
 2. Reject specific claims about prior or future events, unseen actions, causes, consequences, memories, locations, departures, returns, weather not established by evidence, or other unseen narratives.
 3. Prefer language that responds to visual relationships without explaining the photograph or reducing it to an object label.
-4. Apply the source-specificity test to language: ask whether essentially the same phrase could plausibly accompany many substantially different photographs. If so, derive language more specifically from this photograph or omit the text.
+4. Apply the source-specificity test to language: ask whether essentially the same phrase could plausibly accompany many substantially different photographs. If so, derive language more specifically from this photograph; do not accept a generic phrase.
 5. Avoid recurring syntactic formulas, poetic constructions, or phrase templates across a series.
 
 Phrases such as “held apart,” “almost still,” “small distances,” or “quiet weight” may be valid when supported by visible relationships. Phrases such as “after the rain,” “waiting for you,” “the day we left,” “coming home,” or “last summer” require explicit context. Interpret relationships freely; invent facts never.
