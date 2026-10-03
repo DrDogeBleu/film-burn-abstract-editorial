@@ -24,7 +24,7 @@ Proceed only when the input contains a meaningful genuine blank/unexposed region
 - Do not extend or reconstruct the photographed scene in the blank region.
 - Preserve substantial blank negative space. Use only elements that materially express the source-derived relationships.
 - Derive a new abstract grammar independently from each photograph; never impose or reuse a house vocabulary of shapes or devices.
-- Text is optional but encouraged when a strong phrase emerges. Use at most one short poetic or emotional fragment, normally 1–5 words, derived from visible atmosphere, relationships, composition, light, space, rhythm, or tension. Interpret relationships freely; invent facts never.
+- Include one short poetic or emotional fragment, normally 1–5 words, derived from visible atmosphere, relationships, composition, light, space, rhythm, or tension. Interpret relationships freely; invent facts never.
 
 This version is instruction-only. Do not claim pixel-identical preservation unless the available workflow can guarantee it. A visually similar reconstruction is not preservation; disclose any inability to verify protected pixels as a validation limitation.
 
