@@ -23,9 +23,9 @@ The blank area is not repaired, replaced, or automatically filled. Instead, the 
     <th>Clock</th>
   </tr>
   <tr>
-    <td valign="top"><img src="assets/examples/cemetery.png" width="280"></td>
-    <td valign="top"><img src="assets/examples/concrete.png" width="280"></td>
-    <td valign="top"><img src="assets/examples/clock.png" width="280"></td>
+    <td valign="top"><img src="assets/examples/cemetery.png" width="300"></td>
+    <td valign="top"><img src="assets/examples/concrete.png" width="300"></td>
+    <td valign="top"><img src="assets/examples/clock.png" width="300"></td>
   </tr>
 </table>
 
