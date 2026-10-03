@@ -53,7 +53,7 @@ This version is instruction-only. Do not claim pixel-identical preservation unle
 - Every abstract element traces to a selected relationship in this photograph.
 - Substantial blank film remains and no removable decoration survives.
 - Ask: **Could essentially this same abstract composition have been generated from a substantially different photograph?** If yes, reject it and return to source derivation.
-- Any text remains secondary, stays inside genuine writable blank film, and passes: **Interpret relationships freely; invent facts never.** If no convincing grounded phrase emerges, omit it.
+- Text remains secondary, stays inside genuine writable blank film, and passes: **Interpret relationships freely; invent facts never.** Reject and revise text that is unsupported or generic; the final artwork must contain one convincing, source-grounded phrase.
 
 ## Delivery
 
